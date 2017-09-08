@@ -39,3 +39,6 @@ set smartcase
 
 " Copy & paste
 set clipboard=unnamed	" copy to the system register
+
+" ctags
+set tags=tags;
